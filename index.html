@@ -1,0 +1,53 @@
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <script src="js/jquery.js"></script>
+        <link rel="stylesheet" href="public/css/bootstrap-5.0.0-dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="public/css/styles.css">
+        <script src="public/css/bootstrap-5.0.0-dist/js/bootstrap.min.js"></script>
+        <script src="public/js/fonctions.js"></script>
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 inner-b-sm">
+                    <h2>Examen Intra</h2>
+                </div>
+                <div class="col-12">
+                    <button class="btn btn-outline-primary" onclick="envoyerListerQ1()">Question 1</button>
+                    <button class="btn btn-outline-info" onclick="montrer('selectCategorie');">Question 2</button>
+                    <button class="btn btn-outline-secondary" onclick="envoyerListerQ3()">Question 3</button>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <!-- -- Qeustion 1 Lister -- -->
+                <div class="col-md-4 offset-md-4" id="listerFilms">
+                    <form id="listerQ1" action="serveur/question1.php" method="POST"></form>
+                </div>
+
+                <!-- -- Question 2 Lister avec filtre Catégorie -- -->
+                <div class="col-md-4 offset-md-4" id="selectCategorie">
+                    <span id="fermer" onclick="cacher('selectCategorie');">X</span>
+                    <h4>Entrez la catégorie à afficher</h4>
+                    <form id="listerCateg" name="listerCateg" action="serveur/question2.php" method="POST">
+                        <div class="mb-3">
+                            <label for="categLivre" class="form-label">Catégorie</label>
+                            <input type="text" class="form-control" id="categLivre" name="categLivre">
+                        </div>
+                        <button type="submit" class="btn btn-primary">Soumettre</button>
+                    </form>
+                </div>
+
+                <!-- -- Question 3 Lister livre a partir de 1980 -- -->
+                <div class="col-md-4 offset-md-4" id="listerFilms">
+                    <form id="listerQ3" action="serveur/question3.php" method="POST"></form>
+                </div>
+                
+            </div>
+        </div>
+        
+    </body>
+</html>

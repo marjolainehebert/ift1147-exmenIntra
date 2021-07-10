@@ -1,0 +1,72 @@
+titre;auteur;année;pages;catégorie
+Une aventure d'Astérix le gaulois. Le devin;11;1972;48;bandes dessinées
+Une aventure d'Astérix le gaulois. Astérix en Corse;11;1973;48;bandes dessinées
+Une aventure d'Astérix le gaulois. Le cadeau de César;11;1974;48;bandes dessinées
+Les filles de Caleb Tome 1. Le chant du coq;1;1985;528;roman
+Album de famille;4;1985;454;roman
+Les filles de Caleb Tome 2. Le cri de l'oie blanche;1;1986;790;roman
+Secrets;4;1986;320;roman
+La ronde des souvenirs;4;1988;372;roman
+Traversées;4;1988;387;roman
+Une autre vie;4;1988;381;roman
+La belle vie;4;1989;451;roman
+La vagabonde;4;1989;410;roman
+Le don de l'amour Loving;4;1989;392;roman
+Star;4;1990;473;roman
+Un parfait inconnu;4;1990;361;roman
+Zoya;4;1990;470;roman
+L'âme soeur;7;1990;380;roman
+Dors ma jolie;6;1990;289;suspense
+Marie LaFlamme Tome 1;2;1991;398;roman
+Cher Daddy;4;1991;370;roman
+Kaléidoscope;4;1991;389;roman
+Marie LaFlamme Tome 2. Nouvelle-France;2;1992;383;roman
+Les promesses de la passion;4;1992;301;roman
+Souvenirs du Vietnam;4;1992;372;roman
+Nous n'irons plus au bois;6;1992;341;suspense
+Recherche jeune femme aimant danser;6;1992;342;suspense
+Ces enfants d'ailleurs Tome 1. Même les oiseaux se sont tus;1;1993;595;roman
+Coups de cœur;4;1993;320;roman
+Joyaux;4;1993;478;roman
+La fin de l'été;4;1993;378;roman
+Un si grand amour;4;1993;372;roman
+Les ailes du destin;5;1993;465;roman
+La menace;8;1993;63;nouvelle
+La maison du guet;6;1993;224;suspense
+La nuit du renard;6;1993;277;suspense
+Le démon du passé;6;1993;345;suspense
+Un jour tu verras...;6;1993;343;suspense
+Marie LaFlamme Tome 3. La renarde;2;1994;397;roman
+Disparu;4;1994;305;roman
+La maison des jours heureux;4;1994;496;roman
+Naissances;4;1994;356;roman
+Le grand blanc;5;1994;891;roman
+Souviens-toi;6;1994;388;suspense
+Ces enfants d'ailleurs Tome 2. L'envol des tourterelles;1;1995;408;roman
+Accident;4;1995;344;roman
+Le cadeau;4;1995;212;roman
+Plein ciel;4;1995;420;roman
+Un monde de rêve;4;1995;384;roman
+Cinq jours à Paris;4;1996;245;roman
+L'anneau de Cassandra;4;1996;397;roman
+Maintenant et pour toujours;4;1996;530;roman
+Malveillance;4;1996;391;roman
+Ce que vivent les roses;6;1996;285;suspense
+Douce nuit;6;1996;213;suspense
+Honneur et Courage;4;1997;350;roman
+La foudre;4;1997;410;roman
+Une saison de passion;4;1997;565;roman
+L'Homme au masque;7;1997;474;roman
+Joyeux Noël Merry Christmas;6;1997;230;suspense
+La maison du clair de lune, suivi de Vol de routine;6;1997;363;suspense
+Tu m'appartiens;6;1997;341;suspense
+Le Fantôme;4;1998;416;roman
+Le ranch, suivi de Amour;4;1998;502;roman
+Ni vue ni connue;6;1998;266;suspense
+La petite fille qui aimait trop les allumettes;3;1998;180;roman
+Une si longue nuit;6;1999;158;suspense
+Et nous nous reverrons...;6;2000;356;suspense
+Soins intensifs;2;2001;251;roman
+Avant de te dire adieu;6;2001;346;suspense
+Prisonniers du temps;10;2001;620;roman
+Dans la rue où vit celle que j'aime;6;2002;348;suspense
